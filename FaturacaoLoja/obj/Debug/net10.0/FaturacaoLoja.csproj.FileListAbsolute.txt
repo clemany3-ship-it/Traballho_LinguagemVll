@@ -1,0 +1,14 @@
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\bin\Debug\net10.0\FaturacaoLoja.exe
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\bin\Debug\net10.0\FaturacaoLoja.deps.json
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\bin\Debug\net10.0\FaturacaoLoja.runtimeconfig.json
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\bin\Debug\net10.0\FaturacaoLoja.dll
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\bin\Debug\net10.0\FaturacaoLoja.pdb
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.AssemblyInfoInputs.cache
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.AssemblyInfo.cs
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.csproj.CoreCompileInputs.cache
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.dll
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\refint\FaturacaoLoja.dll
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.pdb
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\FaturacaoLoja.genruntimeconfig.cache
+C:\Users\TODO PODEROSO\source\repos\FaturacaoLoja\obj\Debug\net10.0\ref\FaturacaoLoja.dll
